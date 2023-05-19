@@ -1,5 +1,13 @@
 # 《白话强化学习与Pytorch》代码
 
+```bash
+pip freeze > requirements.txt
+sudo apt-get install python3-tk
+
+cd 01-basics/linear_regression
+python3 main.py
+```
+
 ## 5.2 Q-Learning：
 
 native-Qlearning.py
