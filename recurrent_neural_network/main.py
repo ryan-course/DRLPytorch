@@ -3,6 +3,7 @@ import torch.nn as nn
 import torchvision
 import torchvision.transforms as transforms
 
+#循环神经网络
 
 # Device configuration
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

@@ -4,6 +4,7 @@
 pip freeze > requirements.txt
 sudo apt-get install python3-tk
 
+source ./venv/bin/activate.fish
 cd 01-basics/linear_regression
 python3 main.py
 ```
